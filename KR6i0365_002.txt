@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:27.431064
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:21
 #+TITLE: 佛說盂蘭盆經疏
 #+PROPERTY: CBETA_ID T39n1792
 #+PROPERTY: ID KR6i0365
@@ -556,7 +556,7 @@
 報恩之旨。是所願矣。　貴州赤水雪山沙門¶
 繼慶跋¶
 
-疏主傳略
+* 疏主傳略
 :PROPERTIES:
 :head: 疏主傳略(案孝衡鈔傳燈錄二本節要)
 :END:
